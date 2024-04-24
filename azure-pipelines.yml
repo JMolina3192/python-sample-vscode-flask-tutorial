@@ -11,13 +11,13 @@ variables:
   azureServiceConnectionId: 'b3b07ba4-c98c-451d-886b-25a0409a4203'
 
   # Web app name
-  webAppName: 'python-app'
+  webAppName: 'fyp2024-app'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: 'python-app'
+  environmentName: 'fyp2024-app'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
